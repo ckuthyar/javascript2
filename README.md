@@ -45,8 +45,8 @@ Refer https://github.com/ckuthyar/javascript2/blob/main/6.html
 
 ## Assignment 6 - Show Time in Milliseconds since 01-Jan-1970 for a given Date
 In Computer Science, a reference starting date is 01-Jan-1970. This is called Epoch time.   
-Number of milliseconds in a single day = 1000*60*60*24 = 86400000    
-Number of milliseconds in 31 days of Jan = 86400000*31 = 2678400000    
+Number of milliseconds in a single day = 1000\*60\*60\*24 = 86400000    
+Number of milliseconds in 31 days of Jan = 86400000\*31 = 2678400000    
 Elapsed time as on 01-Feb-2025 = 2678400000 msec    
 The JavaScript function is    
 ```
