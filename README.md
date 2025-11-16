@@ -11,3 +11,16 @@ The corresponding lines in HTML files are
 <p>Diff is <span id="showDiff"></span></p>   
 <script src="calculator.js"></script>   
 ```
+Refer https://github.com/ckuthyar/javascript2/blob/main/2.html
+## Assignment 2 - Take inputs n1 and n2 from a HTML page. Show Sum and Difference of these 2 numbers
+
+
+## Assignment 3 - Take inputs Principal, Time and Rate of Interest from a HTML page. Show Monthly EMI payable for the Loan taken.
+Minimum Loan amount: Rs 5,000   
+Maximum loan amount: Rs 5,00,000    
+Min Time: 6 month    
+Max Time: 60 months    
+Min Rate: 5%     
+Max Rate: 15%     
+
+## Assignment 4 - Principal, Time and Rate of Interest as a Slider Input. Show Monthly EMI payable for the Loan taken.
