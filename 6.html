@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        function date1(){
+            let dt1=new Date();
+            document.getElementById("showToday").textContent=dt1;
+        }
+    </script>
+    <button id="submit" onclick="date1()">Submit</button>
+    <p>Today is <span id="showToday"></span></p>
+</body>
+</html>
