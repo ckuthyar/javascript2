@@ -29,16 +29,16 @@ Max Rate: 15%
 Show today's date after clicking a button called Submit.    
 The JavaScript code is shown below        
 ```
- <script>
+<script>
         function date1(){
             let dt1=new Date();
             document.getElementById("showToday").textContent=dt1;
         }
-    </script>
+</script>
 ```
 The HTML code is shown below
 ```
 <button id="submit" onclick="date1()">Submit</button>
-    <p>Today is <span id="showToday"></span></p>
+<p>Today is <span id="showToday"></span></p>
 ```
 Refer https://github.com/ckuthyar/javascript2/blob/main/6.html   
