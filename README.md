@@ -64,5 +64,5 @@ The HTML code is
 <p>Milliseconds since 01-Jan-1970 is <span id="showMillisec"></span></p>
 ```
 The output is    
-Milliseconds since 01-Jan-1970 is 2658600000    
+Milliseconds since 01-Jan-1970 is 2678400000  
 Refer: https://github.com/ckuthyar/javascript2/blob/main/7.html      

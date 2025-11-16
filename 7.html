@@ -7,14 +7,14 @@
 </head>
 <body>
     <script>
-        function date1(y1,M1,d1){
-            let dt1=new Date(y1,M1,d1);
-            let millisec=Date.parse(dt1);
+        function date1(anydate){
+            let dt1=new Date(anydate);
+            let millisec=dt1.getTime();
             document.getElementById("showMillisec").textContent=millisec
         }
     </script>
 
-    <button type="submit" onclick="date1(1970,1,1)">Submit</button>
+    <button type="submit" onclick="date1('1970-02-01T00:00:00Z')">Submit</button>
     <p>Milliseconds since 01-Jan-1970 is <span id="showMillisec"></span></p>
 </body>
 </html>
