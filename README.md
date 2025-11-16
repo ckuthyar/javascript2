@@ -28,7 +28,7 @@ Max Rate: 15%
 ## Assignment 5 - Show Today's Date
 Show today's date after clicking a button called Submit.    
 The JavaScript code is shown below        
-'''
+```
  <script>
         function date1(){
             let dt1=new Date();
